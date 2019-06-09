@@ -29,7 +29,7 @@ var telaInicial;
 var numbers=[];
 var contNum=0;
 var contNum2=0;
-
+var myFont;
 function setup() {
   frameRate(30);
  createCanvas(650, 400);
@@ -38,7 +38,7 @@ function setup() {
    vxo[i]=650+random(500);
     vyo[i]=random(0,500); 
  }
-  
+  myFont = loadFont('bitwise.ttf');
 }
 
 
@@ -59,7 +59,7 @@ function preload(){
 function draw(){
   if(tela==1){
     background(telaInicial);
-    textFont('Bitwise');
+    textFont(myFont);
     textSize(72);
     fill('#00BFFF');
     text("Unicalculo",150,200);

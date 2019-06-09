@@ -5,6 +5,7 @@
         Etapa 9 e 10
 */
 //link do jogo: https://maressad.github.io/Unicalculo-finished/jogo/
+//link do projeto no p5.js:https://editor.p5js.org/Unicalculo/sketches/fQ99mHmi7
 var vidas=3;
 var dificuldade=1;
 var pontos=0;

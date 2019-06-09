@@ -1,4 +1,9 @@
-# Unicalculo-finished
+/* 
+    Equipe: 
+        Nome Joyce Barbosa Cabral- Subturma A (Líder) 
+        Nome Maressa Dâmaris Lima Diógenes - Subturma A 
+        Etapa 9 e 10
+*/
 var vidas=3;
 var dificuldade=1;
 var pontos=0;

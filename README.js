@@ -38,7 +38,7 @@ function setup() {
    vxo[i]=650+random(500);
     vyo[i]=random(0,500); 
  }
-  myFont = loadFont('bitwise.ttf');
+ 
 }
 
 
@@ -52,6 +52,7 @@ function preload(){
  for(i=0;i<=quantNum;i++){
   numbers[i]=loadImage('number'+i+'.png');
  }
+  myFont = loadFont('bitwise.ttf');   
 }
 
 

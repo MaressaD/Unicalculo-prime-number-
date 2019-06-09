@@ -4,6 +4,7 @@
         Nome Maressa Dâmaris Lima Diógenes - Subturma A 
         Etapa 9 e 10
 */
+//link do jogo: https://maressad.github.io/Unicalculo-finished/jogo/
 var vidas=3;
 var dificuldade=1;
 var pontos=0;

@@ -24,7 +24,7 @@ var contNum = 0;
 var contNum2 = 0;
 var sound1;
 velocidade = 2;
-
+var myFont;
 
 function setup() {
   frameRate(30);
@@ -49,7 +49,7 @@ function preload() {
   for (i = 0; i <= qntNN; i++) {
     numbers[i] = loadImage('nnumber' + i + '.png');
   }
-
+myFont = loadFont('bitwise.ttf');
 
 }
 
@@ -58,7 +58,7 @@ function preload() {
 function draw() {
   if (tela == 1) {
     background(telaInicial);
-    textFont('Bitwise');
+    textFont(myFont);
     textSize(72);
     fill('#00BFFF');
     text("Unicalculo", 150, 200);

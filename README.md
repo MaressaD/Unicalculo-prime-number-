@@ -4,7 +4,7 @@
     
     Unicalculo é um jogo desenvolvido em JavaScript.
     
-    Para jogar [clique aqui](https://maressad.github.io/Unicalculo-finished/jogo/).
+    Para jogar [clique aqui]( https://maressad.github.io/Unicalculo-finished/jogo/). 
     
     Equipe de desenvolvimento: 
         Joyce Barbosa Cabral

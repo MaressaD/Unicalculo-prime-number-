@@ -6,11 +6,12 @@ e você será penalizado.
 
 Tela inicial do game
 
-![unicalculo_teladeinicio](https://user-images.githubusercontent.com/50055001/223863953-2b82cea0-7077-4273-a2f6-d2e41b264926.PNG)
+![image](https://user-images.githubusercontent.com/50055001/224175118-2082e1b1-f93b-4874-a157-466f9f0cc028.png)
+
 
 Para movimentar o personagem utilize as setas do lado direito do teclado :arrow_up: :arrow_down: e ctrl para atirar.
 
-![unicalculo3](https://user-images.githubusercontent.com/50055001/223863989-b2021a5b-f002-4d61-9283-a7534c547b43.PNG)
+![image](https://user-images.githubusercontent.com/50055001/224175361-657138ed-5295-4752-9e34-10650706e116.png)
 
     
    Unicalculo é um jogo desenvolvido em JavaScript uitilizando a biblioteca p5.js.
